@@ -23,6 +23,8 @@ A basic calculator web application built using HTML, CSS, and JavaScript. This a
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
 
 ## 📁 Project Structure
+calculator/
+├── index.html
+├── style.css
